@@ -35,7 +35,7 @@
   margin: 0;
   font-family: "Montserrat", sans-serif;
   font-size: 4em;
-  color: whitesmoke;
+  color: blue;
   word-spacing: 16px;
   -webkit-animation: blink 1s linear infinite;
           animation: blink 1s linear infinite;
@@ -45,7 +45,7 @@
   font-size: 1.4em;
   font-weight: bold;
   color: white;
-  text-shadow: 0 0 4px #fff;
+  text-shadow: 0 0 4px whitesmoke;
 }
 
 @-webkit-keyframes blink {
